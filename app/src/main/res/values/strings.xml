@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan2 - Fragment</string>
+
+    <string name="textTitle">Praktikum Android</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text1">Fragment adalah sebuah komponen yang memiliki antarmuka pengguna (UI) dan daur hidupnya sendiri yang dapat digunakan kembali (reused) di berbagai bagian UI aplikasi.</string>
+    <string name="text2">Fragment dapat menjadi bagian statis UI dari sebuah Activity, yang berarti Fragment tetap berada di layar selama seluruh siklus hidup Activity. Namun, UI pada suatu Activity akan lebih efektif jika Fragment ditambahkan ataudihapus secara dinamis pada saat Activity sedang berjalan.</string>
+</resources>
